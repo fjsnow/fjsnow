@@ -2,10 +2,14 @@
 fjsn@github ~ # code
 ```
 ## my name's fred 👋
-i'm a 18 y/o student currently computer science in the uk!
+i'm a 18 y/o student currently computer science at university in the uk!
+
+## projects
+
+check out my website that helps you take the stress away from splitting the bill - https://receipt.gg/
 
 ### want to get in contact w me? 👇<br/>
-mail: fjsn@protonmail.com
+mail: freddyjsnow@gmail.com
 
 <br>
 <br>
