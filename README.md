@@ -2,7 +2,7 @@
 fjsn@github ~ # code
 ```
 ## my name's fred 👋
-i'm a 18 y/o student currently computer science at university in the uk!
+i'm a 18 y/o student currently studying computer science at university in the uk!
 
 ## projects
 
