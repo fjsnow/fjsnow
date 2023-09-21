@@ -8,7 +8,7 @@ i'm a 18 y/o student currently studying computer science at university in the uk
 
 check out my website that helps you take the stress away from splitting the bill - https://receipt.gg/
 
-### want to get in contact w me? 👇<br/>
+## want to get in contact w me? 👇
 mail: freddyjsnow@gmail.com
 
 <br>
