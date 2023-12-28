@@ -12,7 +12,7 @@ mail: freddyjsnow@gmail.com
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,html,css,react,nextjs,tailwind,java,kotlin,py,mongodb,mysql,redis,prisma,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,html,css,react,nextjs,tailwind,java,kotlin,py,mongodb,mysql,redis,docker&perline=5" />
     
   </a>
 </p>
