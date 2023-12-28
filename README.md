@@ -1,12 +1,8 @@
 ```
-fj@github ~ # code
+fj@github:~$
 ```
 ## my name's fred 👋
-i'm a 18 y/o student currently studying computer science at university in the uk!
-
-## projects
-
-check out my website that helps you take the stress away from splitting the bill - https://receipt.gg/
+i'm a 19 y/o student currently studying computer science at university in the uk
 
 ## want to get in contact w me? 👇
 mail: freddyjsnow@gmail.com
