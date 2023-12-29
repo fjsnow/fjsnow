@@ -1,14 +1,31 @@
 ```
-fj@github:~$
+fj@github:~$ cat fred.ts
 ```
-## my name's fred 👋
-i'm a 19 y/o student currently studying computer science at university in the uk
+```typescript
+type Human = {
+    name: string;
+    age: number;
+    pronouns: string;
+    occupation: string;
+    links: {
+        website: string;
+        twitter: string;
+    };
+};
 
-## want to get in contact w me? 👇
-mail: freddyjsnow@gmail.com
+const fred: Human = {
+    name: "Freddy Snow",
+    age: 19,
+    pronouns: "he/him",
+    occupation: "Student",
+    links: {
+        website: "https://freddysnow.com/",
+        twitter: "@freddyjsnow",
+    },
+};
+```
 
-<br>
-<br>
+<br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
